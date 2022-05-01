@@ -1,4 +1,3 @@
-from __future__ import print_function
 from fake_useragent import UserAgent
 from bs4 import  BeautifulSoup
 import sys
